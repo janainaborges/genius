@@ -4,7 +4,7 @@
 Este é um jogo do curso da DIO
     _Requisitos_:
                     
-        +HTML 
+         HTML 
          CSS 
          Javascript
                          
