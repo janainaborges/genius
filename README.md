@@ -1,7 +1,8 @@
-**Olá, tudo bem?**
+***Olá, tudo bem?***
+===========================================
 
 Este é um jogo do curso da DIO
-    ##_Requisitos:
-        - [HTML]
-        - [CSS]
-        - [Javascript] 
+    ##_Requisitos_:
+        + HTML
+        + CSS
+        + Javascript
